@@ -1,8 +1,8 @@
 import './App.css';
-import Button from './components/Button';
-import Card from './components/Card';
-import Counter from './components/Counter';
-import List from './components/List';
+import Button from './components/ui/Button';
+import Card from './components/ui/Card';
+import Counter from './components/ui/Counter';
+import List from './components/ui/List';
 
 function App() {
   return (
